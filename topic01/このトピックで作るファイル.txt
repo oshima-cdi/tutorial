@@ -1,2 +1,4 @@
 topic01の開発
 masterブランチでダイレクトに修正
+masterをマージしてtopic01ブランチで修正
+masterへのマージ前にされに修正
